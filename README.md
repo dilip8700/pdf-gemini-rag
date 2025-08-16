@@ -22,9 +22,7 @@ This project allows you to upload PDFs, process them into embeddings, and ask na
 pdf-gemini-rag/
 │── main.py              # Main application file  
 │── requirements.txt     # Python dependencies  
-│── README.md            # Project documentation  
-│── data/                # Store PDFs here  
-│── faiss_index/         # FAISS vector index storage  
+│── README.md            # Project documentation
 ````
 
 ---
